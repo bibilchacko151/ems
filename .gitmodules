@@ -1,0 +1,8 @@
+[submodule "frontendems"]
+	path = frontendems
+	url = https://github.com/bibilchacko151/frontendems.git
+	branch = master
+[submodule "backendems"]
+	path = backendems
+	url = https://github.com/bibilchacko151/backendems.git
+	branch = master
